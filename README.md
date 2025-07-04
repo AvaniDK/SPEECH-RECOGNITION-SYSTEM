@@ -105,3 +105,5 @@ Through this project, users gain experience in:
 This project demonstrates a conceptual approach to building a speech recognition-based control system using an embedded board. Though actual speech input is not used due to simulation constraints, the Serial Monitor provides an effective stand-in for testing command-based logic. The project is suitable for beginners learning about embedded systems, serial communication, and human-machine interaction models.
 
 # OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8d5d6b6-7c66-42f8-930b-7db6d21e1a46" />
